@@ -1,6 +1,6 @@
 # App Engine Headders
 
-This is a trivial Google app engine application that is the server side counterpart to https://github.com/dansingerman/jQuery-Browser-Language
+This is a trivial Google App Engine application that is the server side counterpart to https://github.com/dansingerman/jQuery-Browser-Language
 
 You can use it to retrieve any http request headers via JSONP.
 
