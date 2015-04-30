@@ -1,4 +1,4 @@
-# App Engine Headders
+# App Engine Headers
 
 This is a trivial Google App Engine application that is the server side counterpart to https://github.com/dansingerman/jQuery-Browser-Language
 
